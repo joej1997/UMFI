@@ -1,2 +1,2 @@
 # UMFI
-Code and experiments for Ultra Marginal Feature Importance
+Code and experiments for Ultra-marginal Feature Importance
